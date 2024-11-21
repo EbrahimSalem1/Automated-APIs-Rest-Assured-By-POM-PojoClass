@@ -1,0 +1,1 @@
+# Automated-APIs-Rest-Assured-By-POM-PojoClass
