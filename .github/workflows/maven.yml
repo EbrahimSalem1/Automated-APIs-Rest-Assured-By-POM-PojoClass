@@ -1,4 +1,4 @@
-name: Java CI with Maven
+name: Automated Tests Rest-Assured By Pojo-Class
 
 on:
   push:
