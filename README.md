@@ -12,6 +12,7 @@
 - POM(Page Object Model)
 - Logs
 - Maven
+- CI/CD (GitHub Actions)
 
 
 
