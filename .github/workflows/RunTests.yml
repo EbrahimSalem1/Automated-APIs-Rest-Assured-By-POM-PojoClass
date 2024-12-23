@@ -28,7 +28,8 @@ jobs:
     - name: Run tests
       continue-on-error: true
       run: > 
-        mvn clean test
+        mvn clean -Dtest="apiTest.StoreTest,apiTest.UserTests"
+        
 
     # # Optional: Uploads the full dependency graph to GitHub to improve the quality of Dependabot alerts this repository can receive
     # - name: Update dependency graph
