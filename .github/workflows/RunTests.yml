@@ -33,6 +33,33 @@ jobs:
         mvn clean -Dtest="apiTest.StoreTest,apiTest.UserTests"
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   # analyze:
   #   name: Analyze
   #   runs-on: ubuntu-latest
